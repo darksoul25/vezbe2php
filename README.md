@@ -1,1 +1,1 @@
-# vezbe2php
+# Aplikazija za zakazivanje kolokvijuma u php.
